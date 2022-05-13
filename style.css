@@ -1,0 +1,37 @@
+@import url("https://fonts.google.com/");
+
+header {
+  font-family: "Arial Narrow", Arial, sans-serif;
+  margin-left: 10px;
+  font-size: medium;
+}
+body {
+  font-family: "Arial Narrow", sans-serif;
+}
+h1 {
+  color: midnightblue;
+  font-size: larger;
+}
+h2 {
+  color: midnightblue;
+  font-size: medium;
+}
+h3 {
+  color: midnightblue;
+  font-size: medium;
+}
+p {
+  font-family: "Arial Narrow", sans-serif;
+  text-align: justify;
+  font-size: medium;
+}
+ul {
+  list-style-type: square;
+  font-size: medium;
+}
+footer {
+  text-align: center;
+  font-family: "Abel", sans-serif;
+  color: navy;
+  font-size: smaller;
+}
