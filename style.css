@@ -16,6 +16,10 @@ h2 {
   color: midnightblue;
   font-size: medium;
 }
+
+a {
+  padding-right: 10px;
+}
 h3 {
   color: midnightblue;
   font-size: medium;
